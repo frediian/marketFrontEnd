@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+for a live view of the project link to
+
+  https://industrious-saber-swallow.glitch.me
+  
+ 
+
+
 
 ## Available Scripts
 
