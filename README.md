@@ -1,7 +1,7 @@
 
 for a live view of the project link to
 
-  https://industrious-saber-swallow.glitch.me
+  https://marketfrontend.herokuapp.com/
   
  
 
